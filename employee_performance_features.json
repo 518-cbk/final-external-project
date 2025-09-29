@@ -1,0 +1,23 @@
+{
+  "features": [
+    "EmpLastSalaryHikePercent",
+    "EmpEnvironmentSatisfaction",
+    "YearsSinceLastPromotion",
+    "ExperienceYearsInCurrentRole",
+    "EmpJobRole_encoded",
+    "EmpWorkLifeBalance",
+    "YearsWithCurrManager",
+    "ExperienceYearsAtThisCompany",
+    "TotalWorkExperienceInYears",
+    "EmpHourlyRate",
+    "EmpJobLevel",
+    "Age",
+    "DistanceFromHome",
+    "NumCompaniesWorked",
+    "EmpEducationLevel",
+    "EmpRelationshipSatisfaction",
+    "TrainingTimesLastYear",
+    "EmpJobInvolvement",
+    "EmpJobSatisfaction"
+  ]
+}
